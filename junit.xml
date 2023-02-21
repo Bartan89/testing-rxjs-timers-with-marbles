@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="7.975">
+  <testsuite name="AppComponent" errors="0" failures="0" skipped="0" timestamp="2023-02-21T06:31:00" time="5.498" tests="3">
+    <testcase classname="AppComponent a timer should start at 0" name="AppComponent a timer should start at 0" time="0.057">
+    </testcase>
+    <testcase classname="AppComponent a timer should after 60 seconds have emited 60 times" name="AppComponent a timer should after 60 seconds have emited 60 times" time="0.012">
+    </testcase>
+    <testcase classname="AppComponent a timer should at the 60th second emit a value of 59" name="AppComponent a timer should at the 60th second emit a value of 59" time="0.014">
+    </testcase>
+  </testsuite>
+</testsuites>
